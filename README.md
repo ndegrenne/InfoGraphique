@@ -1,3 +1,3 @@
 Auteur: Nicolas Degrenne
-Ce code génère une figure 
-Autonomie électrique de la France et de l'Allemagne: compromis entre les développements de la production renouvelable et du stockage
+Dans chaque dossier se trouvent des codes ou feuilles de calcul utilisées pour générer des figures pour le site Internet:
+https://sites.google.com/view/infographique/accueil
